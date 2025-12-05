@@ -41,7 +41,7 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <a href="https://github.com/usestrix/strix">
 <img src="https://img.shields.io/badge/⭐_16.7k-strix-black?style=for-the-badge&labelColor=black" alt="strix"/>
 </a>
@@ -56,7 +56,7 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 <a href="https://github.com/usestrix/strix/pull/173"><img src="https://img.shields.io/badge/PR_%23173-Open-2da44e?style=flat-square&logo=github"/></a>
 <br/>Unit tests for llm/utils
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 <a href="https://github.com/unhappychoice/gitlogue">
 <img src="https://img.shields.io/badge/⭐_3.4k-gitlogue-black?style=for-the-badge&labelColor=black" alt="gitlogue"/>
 </a>
@@ -67,6 +67,7 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 <br/><br/>
 <a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github"/></a>
 <br/>Per-file playback speed option
+<br/><br/><br/>
 </td>
 </tr>
 </table>
