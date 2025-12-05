@@ -45,9 +45,9 @@ argument_parser 유닛 테스트 추가
 <tr>
 <td width="50%" valign="top">
 
-**[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)**
+**[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)** `Team`
 
-미용실 예약 플랫폼 백엔드. Kakao OAuth + JWT 인증, STOMP 웹소켓 실시간 채팅, Redis 분산 락 기반 예약 충돌 방지, 조건부 알림 시스템.
+미용실 예약 플랫폼 백엔드. DB 설계(22개 엔티티), 국세청/오픈뱅킹 API 연동, SMS 인증, 매장 관리 API, 예약 시스템 구현 담당.
 
 `Spring Boot` `Redis` `WebSocket` `JPA`
 
