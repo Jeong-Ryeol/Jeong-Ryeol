@@ -54,9 +54,29 @@ argument_parser 유닛 테스트 추가
 </td>
 <td width="50%" valign="top">
 
+**[Bisit_BE](https://github.com/TEAM-Bisit/Bisit_BE)** `Team`
+
+미용실 예약 플랫폼 백엔드. 국세청 사업자등록 API, 오픈뱅킹 실명인증, SMS 인증, 매장 관리 API, 지도 검색 기능 담당.
+
+`Spring Boot` `Redis` `AWS` `JPA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[jpetstore-6](https://github.com/Jeong-Ryeol/jpetstore-6)**
+
+MyBatis 샘플 애플리케이션에 Ollama LLM Agent 기반 실시간 추천 시스템 구현. 게임 시뮬레이션으로 사용자 취향 분석.
+
+`Spring` `MyBatis` `Ollama` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
 **[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)**
 
-FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인 시스템. Oracle Cloud에서 운영 중.
+FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인. Oracle Cloud 운영 중.
 
 `Node.js` `Express` `MySQL` `PM2`
 
@@ -67,7 +87,7 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 
 **[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)**
 
-비트코인 1시간 후 가격 방향 예측. Upbit API로 실시간 데이터 수집, 기술적 지표(MA, RSI) 분석, 4가지 ML 알고리즘 비교. SVM 75% 정확도.
+비트코인 1시간 후 가격 방향 예측. Upbit API로 실시간 데이터 수집, 기술적 지표 분석, 4가지 ML 알고리즘 비교.
 
 `Python` `scikit-learn` `Streamlit` `WEKA`
 
@@ -76,7 +96,7 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 
 **[ASA-server-monitering](https://github.com/Jeong-Ryeol/ASA-server-monitering)**
 
-ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 시 시각적 알림, 여러 서버 동시 모니터링, 클릭 통과 기능.
+ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 알림, 여러 서버 동시 모니터링.
 
 `Electron` `Node.js` `asa-query`
 
