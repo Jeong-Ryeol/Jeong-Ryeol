@@ -65,7 +65,7 @@ argument_parser 유닛 테스트 추가
 <tr>
 <td width="50%" valign="top">
 
-**[jpetstore-6](https://github.com/Jeong-Ryeol/jpetstore-6)**
+**[jpetstore-6](https://github.com/Jeong-Ryeol/jpetstore-6)** `Team`
 
 MyBatis 샘플 애플리케이션에 Ollama LLM Agent 기반 실시간 추천 시스템 구현. 게임 시뮬레이션으로 사용자 취향 분석.
 
@@ -74,7 +74,7 @@ MyBatis 샘플 애플리케이션에 Ollama LLM Agent 기반 실시간 추천 �
 </td>
 <td width="50%" valign="top">
 
-**[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)**
+**[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)** `Solo`
 
 FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인. Oracle Cloud 운영 중.
 
@@ -85,7 +85,7 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 <tr>
 <td width="50%" valign="top">
 
-**[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)**
+**[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)** `Solo`
 
 비트코인 1시간 후 가격 방향 예측. Upbit API로 실시간 데이터 수집, 기술적 지표 분석, 4가지 ML 알고리즘 비교.
 
@@ -94,7 +94,7 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 </td>
 <td width="50%" valign="top">
 
-**[ASA-server-monitering](https://github.com/Jeong-Ryeol/ASA-server-monitering)**
+**[ASA-server-monitering](https://github.com/Jeong-Ryeol/ASA-server-monitering)** `Solo`
 
 ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 알림, 여러 서버 동시 모니터링.
 
