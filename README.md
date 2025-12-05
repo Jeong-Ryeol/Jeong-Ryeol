@@ -88,7 +88,3 @@ ARK: Ascended 임프린트 자동화 도우미. 자동 우클릭, 숫자키 자�
 **Database** - MySQL, JPA  
 **DevOps** - Docker, AWS, Oracle Cloud, PM2  
 **Tools** - Git, GitHub Actions
-
----
-
-![Jeong-Ryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Ryeol&show_icons=true&theme=transparent)
