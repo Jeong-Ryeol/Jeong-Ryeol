@@ -118,6 +118,8 @@ Salon booking backend. Booking API, customer management, custom group system.
 `Spring Boot` `Redis` `WebSocket` `JPA`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[jpetstore-6](https://github.com/Jeong-Ryeol/jpetstore-6)** `Team`
@@ -127,8 +129,6 @@ LLM Agent-based real-time recommendation system. User preference analysis via ga
 `Spring` `MyBatis` `Ollama` `LLM`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)** `Solo`
@@ -138,6 +138,8 @@ FiveM community scam record lookup. Blacklist management, real-time reports. Run
 `Node.js` `Express` `MySQL` `PM2`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Bitcoin-Price-Prediction](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)** `Solo`
@@ -147,8 +149,6 @@ Data mining-based price prediction. Random Forest, SVM comparison.
 `Python` `scikit-learn` `WEKA`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[ToolKitV](https://github.com/Jeong-Ryeol/ToolKitV)** `Solo`
@@ -158,6 +158,8 @@ FiveM texture optimization. Fixed 16MB streaming errors for 600+ skins.
 `C#` `Texture Optimization`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[reshade](https://github.com/Jeong-Ryeol/reshade)** `Solo`
@@ -166,6 +168,8 @@ ReShade custom fork. Korean localization, UI improvements.
 
 `C++` `DirectX` `OpenGL`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
