@@ -41,13 +41,24 @@ Git 커밋을 터미널에서 영화처럼 재생하는 도구
 <tr>
 <td width="50%" valign="top">
 
+**[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)**
+
+미용실 예약 플랫폼 백엔드. Kakao OAuth + JWT 인증, STOMP 웹소켓 실시간 채팅, Redis 분산 락 기반 예약 충돌 방지, 조건부 알림 시스템.
+
+`Spring Boot` `Redis` `WebSocket` `JPA`
+
+</td>
+<td width="50%" valign="top">
+
 **[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)**
 
-FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인 시스템 구현. Oracle Cloud에서 실제 운영 중.
+FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인 시스템. Oracle Cloud에서 운영 중.
 
 `Node.js` `Express` `MySQL` `PM2`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)**
@@ -57,8 +68,6 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 `Python` `scikit-learn` `Streamlit` `WEKA`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[ASA-server-monitering](https://github.com/Jeong-Ryeol/ASA-server-monitering)**
@@ -66,15 +75,6 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 시 시각적 알림, 여러 서버 동시 모니터링, 클릭 통과 기능.
 
 `Electron` `Node.js` `asa-query`
-
-</td>
-<td width="50%" valign="top">
-
-**[SnowOwl](https://github.com/Jeong-Ryeol/SnowOwl)**
-
-ARK: Ascended 임프린트 자동화 도우미. 자동 우클릭, 숫자키 자동 입력, 임프린트 타이머 기능.
-
-`AutoHotkey` `Windows`
 
 </td>
 </tr>
@@ -85,6 +85,6 @@ ARK: Ascended 임프린트 자동화 도우미. 자동 우클릭, 숫자키 자�
 ### Tech Stack
 
 **Backend** - Spring Boot, Node.js, Express, Python  
-**Database** - MySQL, JPA  
+**Database** - MySQL, Redis, JPA  
 **DevOps** - Docker, AWS, Oracle Cloud, PM2  
 **Tools** - Git, GitHub Actions
