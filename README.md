@@ -102,6 +102,15 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 <tr>
 <td width="50%" valign="top">
 
+**Bisit** `Founder`
+
+B2C Reservation Management Platform. Business registration, Toss PG, NTS API integration.
+
+`Spring Boot` `AWS` `Redis` `Kotlin` `Android`
+
+</td>
+<td width="50%" valign="top">
+
 **[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)** `Team`
 
 Salon booking backend. Booking API, customer management, custom group system.
