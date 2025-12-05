@@ -8,7 +8,7 @@ Currently running a startup while contributing to open source
 
 ---
 
-### 🏢 Founder
+### Founder
 
 <div align="center">
 <table>
@@ -34,37 +34,34 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 
 ---
 
-### 🚀 Open Source Contributions
+### Open Source Contributions
 
 <div align="center">
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 <a href="https://github.com/usestrix/strix">
 <img src="https://img.shields.io/badge/⭐_16.7k-strix-black?style=for-the-badge&labelColor=black" alt="strix"/>
 </a>
-<br/>
+<br/><br/>
 <a href="https://trendshift.io/repositories/15362" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15362" alt="Trendshift" width="200"/></a>
 <br/><br/>
 <b>AI-powered penetration testing agent</b>
 <br/><br/>
-<a href="https://github.com/usestrix/strix/pull/157"><img src="https://img.shields.io/badge/PR_%23157-Merged-8957e5?style=flat-square&logo=github"/></a>
-Unit tests for argument_parser
+<a href="https://github.com/usestrix/strix/pull/157"><img src="https://img.shields.io/badge/PR_%23157-Merged-8957e5?style=flat-square&logo=github"/></a> Unit tests for argument_parser
 <br/>
-<a href="https://github.com/usestrix/strix/pull/173"><img src="https://img.shields.io/badge/PR_%23173-Open-2da44e?style=flat-square&logo=github"/></a>
-Unit tests for llm/utils
+<a href="https://github.com/usestrix/strix/pull/173"><img src="https://img.shields.io/badge/PR_%23173-Open-2da44e?style=flat-square&logo=github"/></a> Unit tests for llm/utils
 </td>
-<td align="center">
+<td align="center" width="50%">
 <a href="https://github.com/unhappychoice/gitlogue">
 <img src="https://img.shields.io/badge/⭐_3.4k-gitlogue-black?style=for-the-badge&labelColor=black" alt="gitlogue"/>
 </a>
-<br/>
+<br/><br/>
 <a href="https://terminaltrove.com/gitlogue/"><img src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/svg/terminal_trove_tool_of_the_week_green_on_black_bg.svg" height="48"/></a>
 <br/><br/>
 <b>Replay git commits like a movie</b>
 <br/><br/>
-<a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github"/></a>
-Per-file playback speed option
+<a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github"/></a> Per-file playback speed option
 </td>
 </tr>
 </table>
@@ -72,7 +69,7 @@ Per-file playback speed option
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -101,7 +98,7 @@ Per-file playback speed option
 
 ---
 
-### 💼 Projects
+### Projects
 
 <div align="center">
 <table>
