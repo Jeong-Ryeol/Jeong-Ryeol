@@ -102,6 +102,40 @@ ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 �
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SnowOwl](https://github.com/Jeong-Ryeol/SnowOwl)** `Solo`
+
+ARK: Ascended 임프린트 자동화 도우미. 자동 우클릭, 숫자키 자동 입력, 임프린트 타이머 기능.
+
+`AutoHotkey` `Windows`
+
+</td>
+<td width="50%" valign="top">
+
+**[ToolKitV](https://github.com/Jeong-Ryeol/ToolKitV)** `Solo`
+
+FiveM 시바서버 전용 텍스처 최적화 도구. 600명+ 스킨 관리 중 발생하는 16MB 스트리밍 오류를 품질 저하 없이 해결.
+
+`C#` `Texture Optimization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[reshade](https://github.com/Jeong-Ryeol/reshade)** `Solo`
+
+ReShade 커스텀 포크. 한국어 로컬라이징, UI 테마 개선, 그래디언트 애니메이션, HWID 검증 실험.
+
+`C++` `DirectX` `OpenGL`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
