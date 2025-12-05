@@ -1,11 +1,42 @@
-## 안녕하세요
+<div align="center">
 
-백엔드 개발을 주로 하고 있습니다. 요즘은 AI와 보안 쪽에도 관심이 많아서 관련 오픈소스에 기여하고 있습니다.
+**Developer who builds products, not just code**
+
+Currently running a startup while contributing to open source
+
+</div>
 
 ---
 
-### Open Source Contributions
+### 🏢 Founder
 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/Jeong-Ryeol/Jeong-Ryeol/raw/main/bisit-icon.png" width="80" alt="Bisit"/>
+<br/><br/>
+<b>Bisit</b>
+<br/>
+B2C Reservation Management Platform
+<br/><br/>
+<code>Currently in operation</code>
+<br/><br/>
+Business registration, Toss PG, NTS API, Open Banking, SMS Auth
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🚀 Open Source Contributions
+
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -15,134 +46,124 @@
 <br/>
 <a href="https://trendshift.io/repositories/15362" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15362" alt="Trendshift" width="200"/></a>
 <br/><br/>
-<b>AI 기반 자동 침투 테스트 에이전트</b>
+<b>AI-powered penetration testing agent</b>
 <br/><br/>
-<a href="https://github.com/usestrix/strix/pull/157"><img src="https://img.shields.io/badge/PR_%23157-Merged-8957e5?style=flat-square&logo=github" alt="PR Merged"/></a>
+<a href="https://github.com/usestrix/strix/pull/157"><img src="https://img.shields.io/badge/PR_%23157-Merged-8957e5?style=flat-square&logo=github"/></a>
+Unit tests for argument_parser
 <br/>
-argument_parser 유닛 테스트 추가
+<a href="https://github.com/usestrix/strix/pull/173"><img src="https://img.shields.io/badge/PR_%23173-Open-2da44e?style=flat-square&logo=github"/></a>
+Unit tests for llm/utils
 </td>
 <td align="center">
 <a href="https://github.com/unhappychoice/gitlogue">
 <img src="https://img.shields.io/badge/⭐_3.4k-gitlogue-black?style=for-the-badge&labelColor=black" alt="gitlogue"/>
 </a>
 <br/>
-<a href="https://terminaltrove.com/gitlogue/"><img src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/svg/terminal_trove_tool_of_the_week_green_on_black_bg.svg" alt="Terminal Trove Tool of The Week" height="48"/></a>
+<a href="https://terminaltrove.com/gitlogue/"><img src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/svg/terminal_trove_tool_of_the_week_green_on_black_bg.svg" height="48"/></a>
 <br/><br/>
-<b>Git 커밋을 터미널에서 영화처럼 재생</b>
+<b>Replay git commits like a movie</b>
 <br/><br/>
-<a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github" alt="PR Merged"/></a>
-<br/>
-파일별 속도 조절 옵션 추가
+<a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github"/></a>
+Per-file playback speed option
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-### Projects
+### 🛠 Tech Stack
 
+<div align="center">
+
+**Backend**&nbsp;&nbsp;&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Database**&nbsp;&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps**&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools**&nbsp;&nbsp;&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 💼 Projects
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Bisit](https://github.com/TEAM-Bisit/Bisit_BE)** `Founder` `Private`
-
-미용실 예약 플랫폼. 직접 기획하고 팀 빌딩, 사업자등록 및 토스 PG 계약까지 진행. 국세청 API, 오픈뱅킹, SMS 인증, 매장 관리, 지도 검색 기능 개발. *현재 운영 중인 서비스로 PR 비공개*
-
-`Spring Boot` `Redis` `AWS` `JPA`
-
-</td>
-<td width="50%" valign="top">
-
 **[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)** `Team`
 
-미용실 예약 플랫폼 백엔드. 예약 관리 API, 고객 관리 API, 커스텀 그룹 시스템, 디자이너-고객 관계 엔티티 설계 담당.
+Salon booking backend. Booking API, customer management, custom group system.
 
 `Spring Boot` `Redis` `WebSocket` `JPA`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[jpetstore-6](https://github.com/Jeong-Ryeol/jpetstore-6)** `Team`
 
-MyBatis 샘플 애플리케이션에 Ollama LLM Agent 기반 실시간 추천 시스템 구현. 게임 시뮬레이션으로 사용자 취향 분석.
+LLM Agent-based real-time recommendation system. User preference analysis via game simulation.
 
 `Spring` `MyBatis` `Ollama` `LLM`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[SibaServerMonitering](https://github.com/Jeong-Ryeol/SibaServerMonitering)** `Solo`
 
-FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스트 관리, 실시간 제보 및 관리자 승인. Oracle Cloud 운영 중.
+FiveM community scam record lookup. Blacklist management, real-time reports. Running on Oracle Cloud.
 
 `Node.js` `Express` `MySQL` `PM2`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)** `Solo`
+**[Bitcoin-Price-Prediction](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)** `Solo`
 
-데이터마이닝 기반 비트코인 가격 예측 시스템. Classification, Clustering, Association Rule 기법 적용. Random Forest, SVM 등 4가지 ML 알고리즘 비교 분석.
+Data mining-based price prediction. Random Forest, SVM comparison.
 
-`Python` `Data Mining` `scikit-learn` `WEKA`
-
-</td>
-<td width="50%" valign="top">
-
-**[ASA-server-monitering](https://github.com/Jeong-Ryeol/ASA-server-monitering)** `Solo`
-
-ARK: Survival Ascended 서버 실시간 모니터링. 플레이어 수 변동 알림, 여러 서버 동시 모니터링.
-
-`Electron` `Node.js` `asa-query`
+`Python` `scikit-learn` `WEKA`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**[SnowOwl](https://github.com/Jeong-Ryeol/SnowOwl)** `Solo`
-
-ARK: Ascended 임프린트 자동화 도우미. 자동 우클릭, 숫자키 자동 입력, 임프린트 타이머 기능.
-
-`AutoHotkey` `Windows`
-
-</td>
 <td width="50%" valign="top">
 
 **[ToolKitV](https://github.com/Jeong-Ryeol/ToolKitV)** `Solo`
 
-FiveM 시바서버 전용 텍스처 최적화 도구. 600명+ 스킨 관리 중 발생하는 16MB 스트리밍 오류를 품질 저하 없이 해결.
+FiveM texture optimization. Fixed 16MB streaming errors for 600+ skins.
 
 `C#` `Texture Optimization`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[reshade](https://github.com/Jeong-Ryeol/reshade)** `Solo`
 
-ReShade 커스텀 포크. 한국어 로컬라이징, UI 테마 개선, 그래디언트 애니메이션, HWID 검증 실험.
+ReShade custom fork. Korean localization, UI improvements.
 
 `C++` `DirectX` `OpenGL`
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
-
----
-
-### Tech Stack
-
-**Backend** - Spring Boot, Node.js, Express, Python  
-**Database** - MySQL, Redis, JPA  
-**DevOps** - Docker, AWS, Oracle Cloud, PM2  
-**Tools** - Git, GitHub Actions
+</div>
