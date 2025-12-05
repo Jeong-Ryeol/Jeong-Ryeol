@@ -87,9 +87,9 @@ FiveM 게임 커뮤니티 사기 전적 조회 시스템. 사기꾼 블랙리스
 
 **[Bitcoin-Price-Prediction-System](https://github.com/Jeong-Ryeol/Bitcoin-Price-Prediction-System)** `Solo`
 
-비트코인 1시간 후 가격 방향 예측. Upbit API로 실시간 데이터 수집, 기술적 지표 분석, 4가지 ML 알고리즘 비교.
+데이터마이닝 기반 비트코인 가격 예측 시스템. Classification, Clustering, Association Rule 기법 적용. Random Forest, SVM 등 4가지 ML 알고리즘 비교 분석.
 
-`Python` `scikit-learn` `Streamlit` `WEKA`
+`Python` `Data Mining` `scikit-learn` `WEKA`
 
 </td>
 <td width="50%" valign="top">
