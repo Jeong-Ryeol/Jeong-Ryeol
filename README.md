@@ -45,20 +45,20 @@ argument_parser 유닛 테스트 추가
 <tr>
 <td width="50%" valign="top">
 
+**[Bisit_BE](https://github.com/TEAM-Bisit/Bisit_BE)** `Founder`
+
+미용실 예약 플랫폼. 직접 기획하고 팀 빌딩, 사업자등록 및 토스 PG 계약까지 진행. 국세청 API, 오픈뱅킹, SMS 인증, 매장 관리, 지도 검색 기능 개발.
+
+`Spring Boot` `Redis` `AWS` `JPA`
+
+</td>
+<td width="50%" valign="top">
+
 **[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)** `Team`
 
 미용실 예약 플랫폼 백엔드. 예약 관리 API, 고객 관리 API, 커스텀 그룹 시스템, 디자이너-고객 관계 엔티티 설계 담당.
 
 `Spring Boot` `Redis` `WebSocket` `JPA`
-
-</td>
-<td width="50%" valign="top">
-
-**[Bisit_BE](https://github.com/TEAM-Bisit/Bisit_BE)** `Team`
-
-미용실 예약 플랫폼 백엔드. 국세청 사업자등록 API, 오픈뱅킹 실명인증, SMS 인증, 매장 관리 API, 지도 검색 기능 담당.
-
-`Spring Boot` `Redis` `AWS` `JPA`
 
 </td>
 </tr>
