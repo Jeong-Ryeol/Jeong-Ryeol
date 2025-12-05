@@ -11,9 +11,7 @@ Currently running a startup while contributing to open source
 ### Founder
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
+
 <img src="https://github.com/Jeong-Ryeol/Jeong-Ryeol/raw/main/bisit-icon.png" width="80" alt="Bisit"/>
 <br/><br/>
 <b>Bisit</b>
@@ -29,9 +27,7 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-</td>
-</tr>
-</table>
+
 </div>
 
 ---
