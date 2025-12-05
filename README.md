@@ -8,27 +8,31 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[strix](https://github.com/usestrix/strix)**
-
-AI 기반 자동 침투 테스트 에이전트
-
-<a href="https://trendshift.io/repositories/15362" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15362" alt="usestrix/strix | Trendshift" width="200"/></a>
-
-- [PR #157](https://github.com/usestrix/strix/pull/157) argument_parser 유닛 테스트 추가
-
+<td align="center">
+<a href="https://github.com/usestrix/strix">
+<img src="https://img.shields.io/badge/⭐_16.7k-strix-black?style=for-the-badge&labelColor=black" alt="strix"/>
+</a>
+<br/>
+<a href="https://trendshift.io/repositories/15362" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15362" alt="Trendshift" width="200"/></a>
+<br/><br/>
+<b>AI 기반 자동 침투 테스트 에이전트</b>
+<br/><br/>
+<a href="https://github.com/usestrix/strix/pull/157"><img src="https://img.shields.io/badge/PR_%23157-Merged-8957e5?style=flat-square&logo=github" alt="PR Merged"/></a>
+<br/>
+argument_parser 유닛 테스트 추가
 </td>
-<td width="50%" valign="top">
-
-**[gitlogue](https://github.com/unhappychoice/gitlogue)**
-
-Git 커밋을 터미널에서 영화처럼 재생하는 도구
-
-<a href="https://terminaltrove.com/gitlogue/"><img src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/svg/terminal_trove_tool_of_the_week_green_on_black_bg.svg" alt="Terminal Trove Tool of The Week" height="40"/></a>
-
-- [PR #117](https://github.com/unhappychoice/gitlogue/pull/117) 파일별 속도 조절 옵션 추가
-
+<td align="center">
+<a href="https://github.com/unhappychoice/gitlogue">
+<img src="https://img.shields.io/badge/⭐_3.4k-gitlogue-black?style=for-the-badge&labelColor=black" alt="gitlogue"/>
+</a>
+<br/>
+<a href="https://terminaltrove.com/gitlogue/"><img src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/svg/terminal_trove_tool_of_the_week_green_on_black_bg.svg" alt="Terminal Trove Tool of The Week" height="48"/></a>
+<br/><br/>
+<b>Git 커밋을 터미널에서 영화처럼 재생</b>
+<br/><br/>
+<a href="https://github.com/unhappychoice/gitlogue/pull/117"><img src="https://img.shields.io/badge/PR_%23117-Merged-8957e5?style=flat-square&logo=github" alt="PR Merged"/></a>
+<br/>
+파일별 속도 조절 옵션 추가
 </td>
 </tr>
 </table>
