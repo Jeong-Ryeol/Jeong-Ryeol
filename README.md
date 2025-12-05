@@ -45,9 +45,9 @@ argument_parser 유닛 테스트 추가
 <tr>
 <td width="50%" valign="top">
 
-**[Bisit_BE](https://github.com/TEAM-Bisit/Bisit_BE)** `Founder`
+**[Bisit](https://github.com/TEAM-Bisit/Bisit_BE)** `Founder` `Private`
 
-미용실 예약 플랫폼. 직접 기획하고 팀 빌딩, 사업자등록 및 토스 PG 계약까지 진행. 국세청 API, 오픈뱅킹, SMS 인증, 매장 관리, 지도 검색 기능 개발.
+미용실 예약 플랫폼. 직접 기획하고 팀 빌딩, 사업자등록 및 토스 PG 계약까지 진행. 국세청 API, 오픈뱅킹, SMS 인증, 매장 관리, 지도 검색 기능 개발. *현재 운영 중인 서비스로 PR 비공개*
 
 `Spring Boot` `Redis` `AWS` `JPA`
 
