@@ -47,7 +47,7 @@ argument_parser 유닛 테스트 추가
 
 **[BeautiFlow_BE](https://github.com/Jeong-Ryeol/BeautiFlow_BE)** `Team`
 
-미용실 예약 플랫폼 백엔드. DB 설계(22개 엔티티), 국세청/오픈뱅킹 API 연동, SMS 인증, 매장 관리 API, 예약 시스템 구현 담당.
+미용실 예약 플랫폼 백엔드. 예약 관리 API, 고객 관리 API, 커스텀 그룹 시스템, 디자이너-고객 관계 엔티티 설계 담당.
 
 `Spring Boot` `Redis` `WebSocket` `JPA`
 
