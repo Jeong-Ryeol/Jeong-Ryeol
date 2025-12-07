@@ -8,7 +8,7 @@ Currently running a startup while contributing to open source
 
 ---
 
-### Founder
+### Founder & CEO
 
 <div align="center">
 
@@ -16,7 +16,7 @@ Currently running a startup while contributing to open source
 <br/><br/>
 <b>Bisit</b>
 <br/>
-O2O Reservation Management Platform
+O2O platform connecting people with on-demand services, anytime, anywhere
 <br/><br/>
 <code>Currently in operation</code>
 <br/><br/>
