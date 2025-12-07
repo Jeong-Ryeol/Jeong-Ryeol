@@ -16,7 +16,7 @@ Currently running a startup while contributing to open source
 <br/><br/>
 <b>Bisit</b>
 <br/>
-B2C Reservation Management Platform
+O2O Reservation Management Platform
 <br/><br/>
 <code>Currently in operation</code>
 <br/><br/>
@@ -104,7 +104,7 @@ Business registration, Toss PG, NTS API, Open Banking, SMS Auth
 
 **Bisit** `Founder`
 
-B2C Reservation Management Platform. Business registration, Toss PG, NTS API integration.
+O2O Reservation Management Platform. Business registration, Toss PG, NTS API integration.
 
 `Spring Boot` `AWS` `Redis` `Kotlin` `Android`
 
