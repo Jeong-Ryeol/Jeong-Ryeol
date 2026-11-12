@@ -170,6 +170,13 @@ ReShade custom fork. Korean localization, UI improvements.
 
 </td>
 <td width="50%" valign="top">
+
+**[Always with chu](https://always-with-chu.com)** `Freelance`
+
+VTuber fan site in production. Backend for a client-designed site: OTP admin auth, SOOP/YouTube API sync, self-hosted on Synology NAS.
+
+`Node.js` `Express` `SQLite` `Docker`
+
 </td>
 </tr>
 </table>
